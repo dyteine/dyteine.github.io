@@ -23,7 +23,7 @@ export default function ProjectsPage() {
     }, [])
 
     return (
-        <div style={{ padding: '20px', maxWidth: '800px', margin: '0 auto' }}>
+        <div className='animate-entrance' style={{ padding: '20px', maxWidth: '800px', margin: '0 auto' }}>
             <h1>Projects</h1>
 
             {error && <p style={{ color: 'red' }}>Error: {error}</p>}
