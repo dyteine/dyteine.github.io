@@ -1,12 +1,5 @@
-**ARS • SECVRITAS • CLARITAS**
+**dyteine.github.io**
 ------
+Dwight Dwayne Yu's official website.
 
-A college student, hobby web developer, IT enthusiast, and cat lover.
-
-**Contact**: [dwightdwayne.yu.exf@gmail.com](mailto:dwightdwayne.yu.exf@gmail.com)
-
-------
-
-❇️ *Website Under Construction!*
-
-_GitHub Pages_ • _Frontend component_
+🟢 Available via: [dyteine.com](https://dyteine.com)
