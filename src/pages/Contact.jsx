@@ -1,5 +1,4 @@
 import ContactCard from '../components/ContactCard'
-
 import { Mail, GitBranch, MessageSquare } from 'lucide-react'
 
 export default function ContactPage() {
@@ -30,11 +29,10 @@ export default function ContactPage() {
                 />
 
                 <ContactCard
-                    href="#"
                     icon={MessageSquare}
                     title="Discord Username"
                     value="dyteine"
-                    external={false}
+                    copyText="dyteine"
                 />
             </div>
         </div>
